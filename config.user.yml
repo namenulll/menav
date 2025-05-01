@@ -3,7 +3,7 @@ site:
   description: 个人网络导航站3
   author: yeyuen
   favicon: favicon.ico
-  logo_text: 导航站
+  logo_text: 导航站3
 fonts:
   title:
     family: Poppins
@@ -20,7 +20,7 @@ fonts:
 profile:
   title: Hello,
   subtitle: Welcome to My Navigation
-  description: 导航菜单
+  description: 导航菜单1
 navigation:
   - name: 首页
     icon: fas fa-home
