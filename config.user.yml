@@ -211,7 +211,7 @@ categories:
         url: https://zh.kid1412.rest/
         icon: fas fa-book
         description: 世界上最大的在线图书馆之一
- - name: 学习资源
+  - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
       - name: 哔哩哔哩
