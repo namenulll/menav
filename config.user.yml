@@ -237,6 +237,10 @@ categories:
   - name: 在线免费影视专区
     icon: fas fa-film
     sites:
+      - name: LibreTV
+        url: https://ys.558868.xyz/
+        icon: fas fa-youtube
+        description: 搜索视频并在线播放
       - name: 追影猫
         url: https://zhuiyingmao5.com/
         icon: fas fa-tv
