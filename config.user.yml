@@ -76,6 +76,10 @@ categories:
         url: https://chat.openai.com
         icon: fas fa-robot
         description: AI智能助手
+      - name: ChatGPT2
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: AI智能助手
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
