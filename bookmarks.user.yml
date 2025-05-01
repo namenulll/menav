@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件 - 用户自定义版本
-# 由bookmark-processor.js生成于 2025-05-01T20:54:38.477Z
+# 由bookmark-processor.js生成于 2025-05-01T21:00:30.331Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 注意：此文件会覆盖bookmarks.yml中的同名配置
 
@@ -73,3 +73,74 @@ categories:
         url: https://www.yiche.com/
         icon: fas fa-link
         description: 易车-价格全知道,买车不吃亏,中国领先的汽车网
+  - name: 海外网站
+    icon: fas fa-folder
+    sites:
+      - name: facebook.com
+        url: https://www.facebook.com/
+        icon: fab fa-facebook
+        description: facebook.com
+      - name: ""
+        url: https://twitter.com/
+        icon: fab fa-twitter
+        description: ""
+      - name: X。尽是新鲜事 / X
+        url: https://x.com/
+        icon: fas fa-link
+        description: X。尽是新鲜事 / X
+      - name: YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: YouTube
+      - name: reddit.com
+        url: https://www.reddit.com/
+        icon: fab fa-reddit
+        description: reddit.com
+      - name: cloudflare.com
+        url: https://www.cloudflare.com/
+        icon: fas fa-link
+        description: cloudflare.com
+      - name: 科赋锐信息科技Cloudflare | Cloudflare
+        url: https://www.cloudflare-cn.com/
+        icon: fas fa-link
+        description: 科赋锐信息科技Cloudflare | Cloudflare
+      - name: 探索 - 在 TikTok 上发现你喜欢的视频
+        url: https://www.tiktok.com/explore
+        icon: fas fa-link
+        description: 探索 - 在 TikTok 上发现你喜欢的视频
+      - name: Google
+        url: https://www.google.com/
+        icon: fab fa-google
+        description: Google
+      - name: Instagram
+        url: https://www.instagram.com/
+        icon: fab fa-instagram
+        description: Instagram
+      - name: ""
+        url: https://mail.google.com/
+        icon: fab fa-google
+        description: ""
+      - name: Gmail：免费、私密且安全的电子邮件 | Google Workspace
+        url: https://workspace.google.com/intl/zh-CN/gmail/
+        icon: fab fa-google
+        description: Gmail：免费、私密且安全的电子邮件 | Google Workspace
+      - name: Google 地球
+        url: https://earth.google.com/web/@0,-2.70529997,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBQgIIAEoNCP___________wEQAA
+        icon: fab fa-google
+        description: Google 地球
+      - name: Wikipedia
+        url: https://www.wikipedia.org/
+        icon: fab fa-wikipedia-w
+        description: Wikipedia
+      - name: Discord - Group Chat That’s All Fun &amp; Games
+        url: https://discord.com/
+        icon: fab fa-discord
+        description: Discord - Group Chat That’s All Fun &amp; Games
+      - name: What Is My IP Address - See Your Public Address - IPv4 &amp; IPv6
+        url: https://whatismyipaddress.com/
+        icon: fas fa-link
+        description: What Is My IP Address - See Your Public Address - IPv4 &amp; IPv6
+      - name: Twitch
+        url: https://www.twitch.tv/
+        icon: fab fa-twitch
+        description: Twitch
