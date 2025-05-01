@@ -140,9 +140,9 @@ categories:
         url: https://www.yiche.com/
         icon: fas fa-car
         description: 提供专业、丰富的互联网资讯和导购服务
- - name: 国外热门网站
-    icon: fa-globe
-    sites:
+  - name: 国外热门网站
+     icon: fa-globe
+     sites:
       - name: GitHub
         url: https://github.com/
         icon: fab fa-github
