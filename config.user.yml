@@ -211,6 +211,181 @@ categories:
         url: https://zh.kid1412.rest/
         icon: fas fa-book
         description: 世界上最大的在线图书馆之一
+  - name: AI
+    icon: fas fa-brain
+    sites:
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fas fa-plug
+        description: 中国人工智能公司研发的大型语言模型
+      - name: chatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-comments
+        description: 领先的人工智能研究组织
+      - name: 谷歌Gemini AI助手
+        url: https://gemini.google.com/
+        icon: fab fa-google
+        description: 谷歌Gemini AI助手是谷歌的人工智能助手
+      - name: Bing AI
+        url: https://bing.com/chat
+        icon: fas fa-search
+        description: 微软Bing搜索引擎的人工智能技术
+      - name: Claude
+        url: https://claude.ai/
+        icon: fas fa-lightbulb
+        description: Claude是一个人工智能写作助手
+  - name: 在线免费影视专区
+    icon: fas fa-film
+    sites:
+      - name: 追影猫
+        url: https://zhuiyingmao5.com/
+        icon: fas fa-tv
+        description: 汇集众多第三方可用网站
+      - name: 臭蛋蛋影视导航
+        url: https://cddys.com/
+        icon: fas fa-tv
+        description: 收集全网热门第三方在线视频网站
+      - name: HDmoli
+        url: https://www.hdmoli.pro/
+        icon: fas fa-film
+        description: 免费高清影视平台
+      - name: 影视TV
+        url: https://yingshi.tv/
+        icon: fas fa-tv
+        description: 全球华人在线视频媒体平台,免费点播
+      - name: 低端影视
+        url: https://ddys.info/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 飞快TV
+        url: https://feikuai.tv/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 独播库(推荐，需海外IP访问)
+        url: https://www.duboku.tv/
+        icon: fas fa-tv
+        description: 内容多、流畅
+      - name: 一个G影视
+        url: https://www.ygg01.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 爱壹帆国际版(海外IP访问)
+        url: https://www.yfsp.tv/
+        icon: fas fa-tv
+        description: 海外视频分享平台、用户互相分享
+      - name: NOXX
+        url: https://noxx.to/
+        icon: fas fa-tv
+        description: 海外视频大全推荐平台之一
+      - name: 111TV
+        url: https://www.111tvs.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: Kimivod
+        url: https://kimivod.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 99itv
+        url: https://99itv.net/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 七位网
+        url: https://www.pkavi.com/
+        icon: fas fa-tv
+        description: 免费高清影视下载
+  - name: 软件下载专区
+    icon: fas fa-download
+    sites:
+      - name: 果核剥壳
+        url: https://www.ghxi.com/
+        icon: fas fa-cogs
+        description: 果核剥壳，还原软件的本质
+      - name: 423Down
+        url: https://www.423down.com/
+        icon: fas fa-download
+        description: 一家由个人运营的软件下载站博客
+      - name: Digit77
+        url: https://www.digit77.com/
+        icon: fas fa-apple
+        description: MAC OS软件下载
+      - name: Macwk
+        url: https://macwk.cn/
+        icon: fas fa-apple
+        description: MAC应用软件,每天更新大量精品mac软件，为您提供优质的mac软件,mac破解版软件下载
+  - name: 主机云服务
+    icon: fas fa-users
+    sites:
+      - name: 全球主机交流论坛
+        url: https://hostloc.com/
+        icon: fas fa-comments
+        description: 全球主机交流论坛
+      - name: LINUX DO
+        url: https://linux.do/
+        icon: fas fa-linux
+        description: Let's do it with linux
+      - name: LowEndTalk
+        url: https://www.lowendtalk.com/
+        icon: fas fa-comment-dots
+        description: 外国云服务社区
+      - name: nodeseek
+        url: https://nodeseek.com/
+        icon: fas fa-cloud
+        description: 中文云服务器讨论社区
+      - name: V2EX
+        url: https://www.v2ex.com/
+        icon: fas fa-users
+        description: 程序员和设计师的社区交流平台
+      - name: 国外主机测评
+        url: https://www.zhujiceping.com/
+        icon: fas fa-server
+        description: 。。。。 
+      - name: IT狗
+        url: https://www.itdog.cn/
+        icon: fas fa-tools
+        description: 网络工具
+      - name: 吾爱破解
+        url: https://www.52pojie.cn/
+        icon: fas fa-shield-alt
+        description: 专注于软件破解和逆向工程的论坛社区
+  - name: 网盘
+    icon: fas fa-cloud
+    sites:
+      - name: 百度网盘
+        url: https://pan.baidu.com/
+        icon: fas fa-cloud-upload-alt
+        description: 百度旗下的网盘服务
+      - name: 蓝奏云
+        url: https://www.lanzou.com/
+        icon: fas fa-cloud-upload-alt
+        description: 免费高速网络存储和分享服务
+      - name: 坚果云
+        url: https://www.jianguoyun.com/
+        icon: fas fa-cloud-upload-alt
+        description: 提供云存储服务的网站
+      - name: 115网盘
+        url: https://115.com/
+        icon: fas fa-cloud-upload-alt
+        description: 提供网络存储服务的网站
+      - name: 360云盘
+        url: https://yunpan.360.cn/
+        icon: fas fa-cloud-upload-alt
+        description: 由奇虎360推出的网络存储服务
+      - name: 阿里云盘
+        url: https://www.aliyundrive.com/
+        icon: fas fa-cloud-upload-alt
+        description: 阿里云推出的网盘服务
+      - name: 夸克网盘
+        url: https://www.quark.cn/
+        icon: fas fa-cloud-upload-alt
+        description: 提供网络存储服务的网站
+      - name: 谷歌网盘
+        url: https://drive.google.com/
+        icon: fas fa-cloud-upload-alt
+        description: 谷歌推出的云存储服务
+      - name: 微软网盘
+        url: https://onedrive.live.com/
+        icon: fas fa-cloud-upload-alt
+        description: 微软推出的云存储服务
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
