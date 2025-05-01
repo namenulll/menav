@@ -1,0 +1,75 @@
+# 自动生成的书签配置文件 - 用户自定义版本
+# 由bookmark-processor.js生成于 2025-05-01T20:54:38.477Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 注意：此文件会覆盖bookmarks.yml中的同名配置
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: 书签栏
+    icon: fas fa-folder
+    sites:
+      - name: IT之家
+        url: https://www.ithome.com/
+        icon: fas fa-link
+        description: IT之家
+      - name: 今日热榜官网
+        url: https://tophub.today/
+        icon: fas fa-link
+        description: 今日热榜官网
+      - name: 抖音-记录美好生活
+        url: https://www.douyin.com/
+        icon: fas fa-link
+        description: 抖音-记录美好生活
+      - name: 小红书 - 你的生活指南
+        url: https://www.xiaohongshu.com/explore
+        icon: fas fa-link
+        description: 小红书 - 你的生活指南
+      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+        url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+      - name: 爱奇艺-在线视频网站-海量正版高清视频在线观看
+        url: https://www.iqiyi.com/
+        icon: fas fa-link
+        description: 爱奇艺-在线视频网站-海量正版高清视频在线观看
+      - name: 腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看
+        url: https://v.qq.com/
+        icon: fas fa-link
+        description: 腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看
+      - name: 虎牙直播-技术驱动娱乐-弹幕式互动直播平台
+        url: https://www.huya.com/
+        icon: fas fa-link
+        description: 虎牙直播-技术驱动娱乐-弹幕式互动直播平台
+      - name: 斗鱼 - 每个人的直播平台
+        url: https://www.douyu.com/?dyshid=0-
+        icon: fas fa-link
+        description: 斗鱼 - 每个人的直播平台
+      - name: 优酷 - 为好内容全力以赴
+        url: https://www.youku.com/ku/webhome
+        icon: fas fa-link
+        description: 优酷 - 为好内容全力以赴
+      - name: 什么值得买 | 科学消费 认真生活
+        url: https://www.smzdm.com/
+        icon: fas fa-link
+        description: 什么值得买 | 科学消费 认真生活
+      - name: 汽车之家
+        url: https://www.autohome.com.cn/
+        icon: fas fa-link
+        description: 汽车之家
+      - name: duolingo.cn
+        url: https://www.duolingo.cn/
+        icon: fas fa-link
+        description: duolingo.cn
+      - name: 京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+        url: https://www.jd.com/
+        icon: fas fa-link
+        description: 京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+      - name: 懂车帝 - 说真的还得懂车帝
+        url: https://www.dongchedi.com/
+        icon: fas fa-link
+        description: 懂车帝 - 说真的还得懂车帝
+      - name: 易车-价格全知道,买车不吃亏,中国领先的汽车网
+        url: https://www.yiche.com/
+        icon: fas fa-link
+        description: 易车-价格全知道,买车不吃亏,中国领先的汽车网
