@@ -20,7 +20,7 @@ fonts:
 profile:
   title: Hello,
   subtitle: Welcome to My Navigation
-  description: 导航菜单1
+  description: 导航菜单
 navigation:
   - name: 首页
     icon: fas fa-home
@@ -40,9 +40,6 @@ navigation:
     id: bookmarks
     active: false
 social:
-- name: My GitHub
-    url: https://github.com/namenulll/menav
-    icon: fab fa-github
   - name: GitHub
     url: https://github.com
     icon: fab fa-github
@@ -61,7 +58,7 @@ categories:
     sites:
       - name: IT之家
         url: https://www.ithome.com/
-        icon: fas fa-laptop-code
+        icon: assets/it.png
         description: IT科技资讯网站
       - name: 今日热榜
         url: https://tophub.today/
