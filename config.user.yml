@@ -58,7 +58,7 @@ categories:
     sites:
       - name: IT之家
         url: https://www.ithome.com/
-        icon: favicon: assets/it.png
+        icon: favicon: favicon.ico
         description: IT科技资讯网站
       - name: 今日热榜
         url: https://tophub.today/
