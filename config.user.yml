@@ -58,182 +58,182 @@ categories:
     sites:
       - name: IT之家
         url: https://www.ithome.com/
-        icon: fas fa-laptop-code
+        icon: https://logo.clearbit.com/ithome.com
         description: IT科技资讯网站
       - name: 今日热榜
         url: https://tophub.today/
-        icon: fas fa-fire
+        icon: https://logo.clearbit.com/tophub.today
         description: 各大热门网站热门头条的聚合网站
       - name: 蓝点网
         url: https://www.landiannews.com/
-        icon: fas fa-cogs
+        icon: https://logo.clearbit.com/landiannews.com
         description: 互联网技术研究与应用
       - name: 百度贴吧
         url: https://tieba.baidu.com/
-        icon: fab fa-baidu
+        icon: https://logo.clearbit.com/tieba.baidu.com
         description: 百度旗下的网络社区
       - name: 抖音
         url: https://www.douyin.com/
-        icon: fab fa-tiktok
+        icon: https://logo.clearbit.com/douyin.com
         description: 中国领先的短视频平台
       - name: 小红书
         url: https://www.xiaohongshu.com/
-        icon: fab fa-pinterest
+        icon: https://logo.clearbit.com/xiaohongshu.com
         description: 中国领先的社交电商平台
       - name: 哔哩哔哩
         url: https://www.bilibili.com/
-        icon: fab fa-youtube
+        icon: https://logo.clearbit.com/bilibili.com
         description: 中国领先的动漫视频网站
       - name: 西瓜视频
         url: https://www.ixigua.com/
-        icon: fas fa-video
+        icon: https://logo.clearbit.com/ixigua.com
         description: 中国领先的短视频平台
       - name: 爱奇艺
         url: https://www.iqiyi.com/
-        icon: fab fa-youtube
+        icon: https://logo.clearbit.com/iqiyi.com
         description: 中国领先的在线视频媒体平台
       - name: 腾讯视频
         url: https://v.qq.com/
-        icon: fab fa-youtube
+        icon: https://logo.clearbit.com/v.qq.com
         description: 腾讯旗下的在线视频平台
       - name: 虎牙直播
         url: https://www.huya.com/
-        icon: fab fa-twitch
+        icon: https://logo.clearbit.com/huya.com
         description: 中国领先的游戏直播平台
       - name: 斗鱼直播
         url: https://www.douyu.com/
-        icon: fab fa-twitch
+        icon: https://logo.clearbit.com/douyu.com
         description: 中国领先的游戏直播平台
       - name: 什么值得买
         url: https://www.smzdm.com/
-        icon: fas fa-shopping-cart
+        icon: https://logo.clearbit.com/smzdm.com
         description: 中国领先的消费导购网站
       - name: 汽车之家
         url: https://www.autohome.com.cn/
-        icon: fas fa-car
+        icon: https://logo.clearbit.com/autohome.com.cn
         description: 中国领先的汽车资讯网站
       - name: 今日头条
         url: https://www.toutiao.com/
-        icon: fas fa-newspaper
+        icon: https://logo.clearbit.com/toutiao.com
         description: 中国领先的新闻资讯平台
       - name: 站长工具
         url: https://ping.chinaz.com/
-        icon: fas fa-tools
+        icon: https://logo.clearbit.com/ping.chinaz.com
         description: 站长工具
       - name: 优酷视频
         url: https://www.youku.com/
-        icon: fab fa-youtube
+        icon: https://logo.clearbit.com/youku.com
         description: 中国领先的视频媒体平台
       - name: 多邻国
         url: https://www.duolingo.cn/
-        icon: fas fa-language
+        icon: https://logo.clearbit.com/duolingo.cn
         description: 世界上最受欢迎的语言学习平台
       - name: 京东
         url: https://www.jd.com/
-        icon: fab fa-shopify
+        icon: https://logo.clearbit.com/jd.com
         description: 国内专业的网上购物商城
       - name: 懂车帝
         url: https://www.dongchedi.com/
-        icon: fas fa-car
+        icon: https://logo.clearbit.com/dongchedi.com
         description: 汽车资讯平台,懂车更懂你
       - name: 易车网
         url: https://www.yiche.com/
-        icon: fas fa-car
+        icon: https://logo.clearbit.com/yiche.com
         description: 提供专业、丰富的互联网资讯和导购服务
   - name: 国外热门网站
     icon: fa-globe
     sites:
       - name: GitHub
         url: https://github.com/
-        icon: fab fa-github
+        icon: https://logo.clearbit.com/github.com
         description: 全球最大的开源社区和软件开发平台
       - name: Facebook(脸书)
         url: https://www.facebook.com/
-        icon: fab fa-facebook
+        icon: https://logo.clearbit.com/facebook.com
         description: 全球最大的社交网络平台
       - name: 推特(X)
         url: https://twitter.com/
-        icon: fab fa-twitter
+        icon: https://logo.clearbit.com/twitter.com
         description: 全球最大的即时信息分享平台
       - name: YouTube(油管)
         url: https://www.youtube.com/
-        icon: fab fa-youtube
+        icon: https://logo.clearbit.com/youtube.com
         description: 全球最大的视频分享平台
       - name: Reddit
         url: https://www.reddit.com/
-        icon: fab fa-reddit
+        icon: https://logo.clearbit.com/reddit.com
         description: 全球知名的社交新闻网站
       - name: Medium
         url: https://medium.com/
-        icon: fab fa-medium
+        icon: https://logo.clearbit.com/medium.com
         description: 优质写作内容聚合平台
       - name: Cloudflare
         url: https://www.cloudflare.com/
-        icon: fab fa-cloudflare
+        icon: https://logo.clearbit.com/cloudflare.com
         description: 域名托管网站
       - name: TikTok抖音海外版
         url: https://www.tiktok.com/
-        icon: fab fa-tiktok
+        icon: https://logo.clearbit.com/tiktok.com
         description: 全球热门的短视频分享平台
       - name: Google
         url: https://www.google.com/
-        icon: fab fa-google
+        icon: https://logo.clearbit.com/google.com
         description: 全球最大的搜索引擎和互联网技术公司
       - name: Instagram
         url: https://www.instagram.com/
-        icon: fab fa-instagram
+        icon: https://logo.clearbit.com/instagram.com
         description: 全球最大的图片分享社交平台
       - name: Gmail
         url: https://mail.google.com/
-        icon: fab fa-google
+        icon: https://logo.clearbit.com/mail.google.com
         description: 谷歌邮箱
       - name: 谷歌地球
         url: https://earth.google.com/
-        icon: fas fa-globe-americas
+        icon: https://logo.clearbit.com/earth.google.com
         description: 全球高清卫星地图
       - name: 维基百科
         url: https://www.wikipedia.org/
-        icon: fab fa-wikipedia-w
+        icon: https://logo.clearbit.com/wikipedia.org
         description: 最大的自由内容百科全书
       - name: Discord
         url: https://discord.com/
-        icon: fab fa-discord
+        icon: https://logo.clearbit.com/discord.com
         description: 全球知名的语音、视频、文本聊天应用
       - name: whatismyipaddress
         url: https://whatismyipaddress.com/
-        icon: fas fa-network-wired
+        icon: https://logo.clearbit.com/whatismyipaddress.com
         description: IP地址查询 Whats my IP address?
       - name: Twitch
         url: https://www.twitch.tv/
-        icon: fab fa-twitch
+        icon: https://logo.clearbit.com/twitch.tv
         description: 国外直播网站
       - name: Z-Library
         url: https://zh.kid1412.rest/
-        icon: fas fa-book
+        icon: https://logo.clearbit.com/kid1412.rest
         description: 世界上最大的在线图书馆之一
   - name: AI
     icon: fas fa-brain
     sites:
       - name: DeepSeek
         url: https://chat.deepseek.com/
-        icon: fas fa-plug
+        icon: https://logo.clearbit.com/deepseek.com
         description: 中国人工智能公司研发的大型语言模型
       - name: chatGPT
         url: https://chat.openai.com/
-        icon: fas fa-comments
+        icon: https://logo.clearbit.com/openai.com
         description: 领先的人工智能研究组织
       - name: 谷歌Gemini AI助手
         url: https://gemini.google.com/
-        icon: fab fa-google
+        icon: https://logo.clearbit.com/gemini.google.com
         description: 谷歌Gemini AI助手是谷歌的人工智能助手
       - name: Bing AI
         url: https://bing.com/chat
-        icon: fas fa-search
+        icon: https://logo.clearbit.com/bing.com
         description: 微软Bing搜索引擎的人工智能技术
       - name: Claude
         url: https://claude.ai/
-        icon: fas fa-lightbulb
-        description: Claude是一个人工智能写作助手
+        icon: https://logo.clearbit.com/claude.ai
+        description: Claude是一个人工智能写作助手 
   - name: 在线免费影视专区
     icon: fas fa-film
     sites:
