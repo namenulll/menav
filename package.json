@@ -9,7 +9,9 @@
     "dev": "node src/generator.js && serve dist",
     "clean": "rm -rf dist",
     "build": "npm run clean && npm run generate",
-    "restructure": "node restructure.js"
+    "restructure": "node restructure.js",
+    "migrate-config": "node src/migrate-config.js",
+    "import-bookmarks": "node src/bookmark-processor.js"
   },
   "keywords": [
     "navigation",
@@ -20,6 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "js-yaml": "^4.1.0",
+    "handlebars": "^4.7.8",
     "ansi-regex": "^6.0.1",
     "ansi-styles": "^6.2.1",
     "supports-color": "^9.4.0",
