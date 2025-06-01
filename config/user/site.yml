@@ -1,9 +1,9 @@
-site:
-  title: 我的导航
-  description: 个人网络导航站
-  author: yeyuen
-  favicon: favicon.ico
-  logo_text: 导航站
+title: 我的导航
+description: 个人网络导航站
+author: Your Name
+favicon: favicon.ico
+logo_text: 导航站
+
 fonts:
   title:
     family: Poppins
@@ -17,6 +17,7 @@ fonts:
     family: Noto Sans SC
     weight: 400
     source: google
+    
 profile:
   title: Hello,
   subtitle: Welcome to My Navigation
