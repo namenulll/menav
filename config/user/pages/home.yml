@@ -8,26 +8,340 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: Linux.do
-        url: https://linux.do/
-        icon: fab fa-linux
-        description: 新的理想型社区
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
+      - name: IT之家
+        url: https://www.ithome.com/
+        icon: fas fa-laptop-code
+        description: IT科技资讯网站
+      - name: 今日热榜
+        url: https://tophub.today/
+        icon: fas fa-fire
+        description: 各大热门网站热门头条的聚合网站
+      - name: 蓝点网
+        url: https://www.landiannews.com/
+        icon: fas fa-cogs
+        description: 互联网技术研究与应用
+      - name: 百度贴吧
+        url: https://tieba.baidu.com/
+        icon: fab fa-baidu
+        description: 百度旗下的网络社区
+      - name: 抖音
+        url: https://www.douyin.com/
+        icon: fab fa-tiktok
+        description: 中国领先的短视频平台
+      - name: 小红书
+        url: https://www.xiaohongshu.com/
+        icon: fab fa-pinterest
+        description: 中国领先的社交电商平台
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com/
+        icon: fab fa-youtube
+        description: 中国领先的动漫视频网站
+      - name: 西瓜视频
+        url: https://www.ixigua.com/
+        icon: fas fa-video
+        description: 中国领先的短视频平台
+      - name: 爱奇艺
+        url: https://www.iqiyi.com/
+        icon: fab fa-youtube
+        description: 中国领先的在线视频媒体平台
+      - name: 腾讯视频
+        url: https://v.qq.com/
+        icon: fab fa-youtube
+        description: 腾讯旗下的在线视频平台
+      - name: 虎牙直播
+        url: https://www.huya.com/
+        icon: fab fa-twitch
+        description: 中国领先的游戏直播平台
+      - name: 斗鱼直播
+        url: https://www.douyu.com/
+        icon: fab fa-twitch
+        description: 中国领先的游戏直播平台
+      - name: 什么值得买
+        url: https://www.smzdm.com/
+        icon: fas fa-shopping-cart
+        description: 中国领先的消费导购网站
+      - name: 汽车之家
+        url: https://www.autohome.com.cn/
+        icon: fas fa-car
+        description: 中国领先的汽车资讯网站
+      - name: 今日头条
+        url: https://www.toutiao.com/
+        icon: fas fa-newspaper
+        description: 中国领先的新闻资讯平台
+      - name: 站长工具
+        url: https://ping.chinaz.com/
+        icon: fas fa-tools
+        description: 站长工具
+      - name: 优酷视频
+        url: https://www.youku.com/
+        icon: fab fa-youtube
+        description: 中国领先的视频媒体平台
+      - name: 多邻国
+        url: https://www.duolingo.cn/
+        icon: fas fa-language
+        description: 世界上最受欢迎的语言学习平台
+      - name: 京东
+        url: https://www.jd.com/
+        icon: fab fa-shopify
+        description: 国内专业的网上购物商城
+      - name: 懂车帝
+        url: https://www.dongchedi.com/
+        icon: fas fa-car
+        description: 汽车资讯平台,懂车更懂你
+      - name: 易车网
+        url: https://www.yiche.com/
+        icon: fas fa-car
+        description: 提供专业、丰富的互联网资讯和导购服务
+  - name: 国外热门网站
+    icon: fa-globe
+    sites:
       - name: GitHub
-        url: https://www.github.com
+        url: https://github.com/
         icon: fab fa-github
-        description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
+        description: 全球最大的开源社区和软件开发平台
+      - name: Facebook(脸书)
+        url: https://www.facebook.com/
+        icon: fab fa-facebook
+        description: 全球最大的社交网络平台
+      - name: 推特(X)
+        url: https://twitter.com/
+        icon: fab fa-twitter
+        description: 全球最大的即时信息分享平台
+      - name: YouTube(油管)
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: 全球最大的视频分享平台
+      - name: Reddit
+        url: https://www.reddit.com/
+        icon: fab fa-reddit
+        description: 全球知名的社交新闻网站
+      - name: Medium
+        url: https://medium.com/
+        icon: fab fa-medium
+        description: 优质写作内容聚合平台
+      - name: Cloudflare
+        url: https://www.cloudflare.com/
+        icon: fab fa-cloudflare
+        description: 域名托管网站
+      - name: TikTok抖音海外版
+        url: https://www.tiktok.com/
+        icon: fab fa-tiktok
+        description: 全球热门的短视频分享平台
+      - name: Google
+        url: https://www.google.com/
+        icon: fab fa-google
+        description: 全球最大的搜索引擎和互联网技术公司
+      - name: Instagram
+        url: https://www.instagram.com/
+        icon: fab fa-instagram
+        description: 全球最大的图片分享社交平台
+      - name: Gmail
+        url: https://mail.google.com/
+        icon: fab fa-google
+        description: 谷歌邮箱
+      - name: 谷歌地球
+        url: https://earth.google.com/
+        icon: fas fa-globe-americas
+        description: 全球高清卫星地图
+      - name: 维基百科
+        url: https://www.wikipedia.org/
+        icon: fab fa-wikipedia-w
+        description: 最大的自由内容百科全书
+      - name: Discord
+        url: https://discord.com/
+        icon: fab fa-discord
+        description: 全球知名的语音、视频、文本聊天应用
+      - name: whatismyipaddress
+        url: https://whatismyipaddress.com/
+        icon: fas fa-network-wired
+        description: IP地址查询 Whats my IP address?
+      - name: Twitch
+        url: https://www.twitch.tv/
+        icon: fab fa-twitch
+        description: 国外直播网站
+      - name: Z-Library
+        url: https://zh.kid1412.rest/
+        icon: fas fa-book
+        description: 世界上最大的在线图书馆之一
+  - name: AI
+    icon: fas fa-brain
+    sites:
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fas fa-plug
+        description: 中国人工智能公司研发的大型语言模型
+      - name: chatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-comments
+        description: 领先的人工智能研究组织
+      - name: 谷歌Gemini AI助手
+        url: https://gemini.google.com/
+        icon: fab fa-google
+        description: 谷歌Gemini AI助手是谷歌的人工智能助手
+      - name: Bing AI
+        url: https://bing.com/chat
+        icon: fas fa-search
+        description: 微软Bing搜索引擎的人工智能技术
+      - name: Claude
+        url: https://claude.ai/
+        icon: fas fa-lightbulb
+        description: Claude是一个人工智能写作助手
+  - name: 在线免费影视专区
+    icon: fas fa-film
+    sites:
+      - name: LibreTV
+        url: https://ys.558868.xyz/
+        icon: fas fa-youtube
+        description: 搜索视频并在线播放
+      - name: 追影猫
+        url: https://zhuiyingmao5.com/
+        icon: fas fa-tv
+        description: 汇集众多第三方可用网站
+      - name: 臭蛋蛋影视导航
+        url: https://cddys.com/
+        icon: fas fa-tv
+        description: 收集全网热门第三方在线视频网站
+      - name: HDmoli
+        url: https://www.hdmoli.pro/
+        icon: fas fa-film
+        description: 免费高清影视平台
+      - name: 影视TV
+        url: https://yingshi.tv/
+        icon: fas fa-tv
+        description: 全球华人在线视频媒体平台,免费点播
+      - name: 低端影视
+        url: https://ddys.info/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 飞快TV
+        url: https://feikuai.tv/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 独播库(推荐，需海外IP访问)
+        url: https://www.duboku.tv/
+        icon: fas fa-tv
+        description: 内容多、流畅
+      - name: 一个G影视
+        url: https://www.ygg01.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 爱壹帆国际版(海外IP访问)
+        url: https://www.yfsp.tv/
+        icon: fas fa-tv
+        description: 海外视频分享平台、用户互相分享
+      - name: NOXX
+        url: https://noxx.to/
+        icon: fas fa-tv
+        description: 海外视频大全推荐平台之一
+      - name: 111TV
+        url: https://www.111tvs.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: Kimivod
+        url: https://kimivod.com/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 99itv
+        url: https://99itv.net/
+        icon: fas fa-tv
+        description: 免费高清影视平台
+      - name: 七位网
+        url: https://www.pkavi.com/
+        icon: fas fa-tv
+        description: 免费高清影视下载
+  - name: 软件下载专区
+    icon: fas fa-download
+    sites:
+      - name: 果核剥壳
+        url: https://www.ghxi.com/
+        icon: fas fa-cogs
+        description: 果核剥壳，还原软件的本质
+      - name: 423Down
+        url: https://www.423down.com/
+        icon: fas fa-download
+        description: 一家由个人运营的软件下载站博客
+      - name: Digit77
+        url: https://www.digit77.com/
+        icon: fas fa-apple
+        description: MAC OS软件下载
+      - name: Macwk
+        url: https://macwk.cn/
+        icon: fas fa-apple
+        description: MAC应用软件,每天更新大量精品mac软件，为您提供优质的mac软件,mac破解版软件下载
+  - name: 主机云服务
+    icon: fas fa-users
+    sites:
+      - name: 全球主机交流论坛
+        url: https://hostloc.com/
+        icon: fas fa-comments
+        description: 全球主机交流论坛
+      - name: LINUX DO
+        url: https://linux.do/
+        icon: fas fa-linux
+        description: Let's do it with linux
+      - name: LowEndTalk
+        url: https://www.lowendtalk.com/
+        icon: fas fa-comment-dots
+        description: 外国云服务社区
+      - name: nodeseek
+        url: https://nodeseek.com/
+        icon: fas fa-cloud
+        description: 中文云服务器讨论社区
+      - name: V2EX
+        url: https://www.v2ex.com/
+        icon: fas fa-users
+        description: 程序员和设计师的社区交流平台
+      - name: 国外主机测评
+        url: https://www.zhujiceping.com/
+        icon: fas fa-server
+        description: 。。。。 
+      - name: IT狗
+        url: https://www.itdog.cn/
+        icon: fas fa-tools
+        description: 网络工具
+      - name: 吾爱破解
+        url: https://www.52pojie.cn/
+        icon: fas fa-shield-alt
+        description: 专注于软件破解和逆向工程的论坛社区
+  - name: 网盘
+    icon: fas fa-cloud
+    sites:
+      - name: 百度网盘
+        url: https://pan.baidu.com/
+        icon: fas fa-cloud-upload-alt
+        description: 百度旗下的网盘服务
+      - name: 蓝奏云
+        url: https://www.lanzou.com/
+        icon: fas fa-cloud-upload-alt
+        description: 免费高速网络存储和分享服务
+      - name: 坚果云
+        url: https://www.jianguoyun.com/
+        icon: fas fa-cloud-upload-alt
+        description: 提供云存储服务的网站
+      - name: 115网盘
+        url: https://115.com/
+        icon: fas fa-cloud-upload-alt
+        description: 提供网络存储服务的网站
+      - name: 360云盘
+        url: https://yunpan.360.cn/
+        icon: fas fa-cloud-upload-alt
+        description: 由奇虎360推出的网络存储服务
+      - name: 阿里云盘
+        url: https://www.aliyundrive.com/
+        icon: fas fa-cloud-upload-alt
+        description: 阿里云推出的网盘服务
+      - name: 夸克网盘
+        url: https://www.quark.cn/
+        icon: fas fa-cloud-upload-alt
+        description: 提供网络存储服务的网站
+      - name: 谷歌网盘
+        url: https://drive.google.com/
+        icon: fas fa-cloud-upload-alt
+        description: 谷歌推出的云存储服务
+      - name: 微软网盘
+        url: https://onedrive.live.com/
+        icon: fas fa-cloud-upload-alt
+        description: 微软推出的云存储服务
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
@@ -104,3 +418,147 @@ categories:
         url: https://carbon.now.sh
         icon: fas fa-code
         description: 代码图片生成器
+projects:
+  title: 我的项目
+  subtitle: 这里展示了我的一些个人项目和开源贡献
+  categories:
+    - name: 个人项目
+      icon: fas fa-code
+      sites:
+        - name: 个人导航站
+          icon: fas fa-compass
+          description: 一个简洁美观的个人导航页面
+          url: "#"
+        - name: Todo List
+          icon: fas fa-tasks
+          description: 基于Vue3的待办事项管理器
+          url: "#"
+        - name: 个人博客
+          icon: fas fa-blog
+          description: 使用Hexo搭建的技术博客
+          url: "#"
+    - name: 开源贡献
+      icon: fas fa-code-branch
+      sites:
+        - name: Project A
+          icon: fab fa-github
+          description: 开源项目贡献
+          url: "#"
+        - name: Project B
+          icon: fab fa-github
+          description: 开源项目贡献
+          url: "#"
+articles:
+  title: 技术文章
+  subtitle: 分享我的技术文章和学习笔记
+  categories:
+    - name: 最新文章
+      icon: fas fa-pen
+      sites:
+        - name: Vue3最佳实践
+          icon: fab fa-vuejs
+          description: Vue3组合式API的使用技巧
+          url: "#"
+        - name: JavaScript进阶
+          icon: fab fa-js
+          description: JavaScript高级特性解析
+          url: "#"
+        - name: Git使用技巧
+          icon: fab fa-git-alt
+          description: Git常用命令和工作流
+          url: "#"
+        - name: Docker入门
+          icon: fab fa-docker
+          description: Docker基础知识和实践
+          url: "#"
+    - name: 学习笔记
+      icon: fas fa-book
+      sites:
+        - name: React Hooks
+          icon: fab fa-react
+          description: React Hooks最佳实践
+          url: "#"
+        - name: Node.js实战
+          icon: fab fa-node-js
+          description: Node.js服务端开发笔记
+          url: "#"
+        - name: CSS技巧
+          icon: fab fa-css3
+          description: CSS常用技巧总结
+          url: "#"
+        - name: 数据库设计
+          icon: fas fa-database
+          description: 数据库架构和优化笔记
+          url: "#"
+    - name: 源码解析
+      icon: fas fa-code
+      sites:
+        - name: Vue源码解析
+          icon: fab fa-vuejs
+          description: Vue.js核心原理解析
+          url: "#"
+        - name: React原理
+          icon: fab fa-react
+          description: React核心机制解析
+          url: "#"
+friends:
+  title: 友情链接
+  subtitle: 优秀的博主和朋友们
+  categories:
+    - name: 技术博主
+      icon: fas fa-user-friends
+      sites:
+        - name: 小明的博客
+          icon: fas fa-code
+          description: 全栈开发工程师，分享技术心得
+          url: "#"
+        - name: 小红的前端
+          icon: fas fa-paint-brush
+          description: 专注前端开发与设计
+          url: "#"
+        - name: 小张的后端
+          icon: fas fa-server
+          description: 分享后端开发经验
+          url: "#"
+        - name: 小李的移动端
+          icon: fas fa-mobile-alt
+          description: 移动应用开发专家
+          url: "#"
+    - name: 技术社区
+      icon: fas fa-laptop-code
+      sites:
+        - name: GitHub
+          icon: fab fa-github
+          description: 开源代码托管平台
+          url: https://github.com
+        - name: Stack Overflow
+          icon: fab fa-stack-overflow
+          description: 程序员问答社区
+          url: https://stackoverflow.com
+        - name: 掘金
+          icon: fas fa-book
+          description: 高质量技术社区
+          url: https://juejin.cn
+        - name: V2EX
+          icon: fas fa-comments
+          description: 创意工作者社区
+          url: https://v2ex.com
+    - name: 休闲娱乐
+      icon: fas fa-coffee
+      sites:
+        - name: 哔哩哔哩
+          icon: fas fa-play-circle
+          description: 视频弹幕网站
+          url: https://www.bilibili.com
+        - name: 知乎
+          icon: fas fa-question-circle
+          description: 问答社区
+          url: https://www.zhihu.com
+        - name: 豆瓣
+          icon: fas fa-film
+          description: 文艺生活社区
+          url: https://www.douban.com
+        - name: 网易云音乐
+          icon: fas fa-music
+          description: 音乐平台
+          url: https://music.163.com
