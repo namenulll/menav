@@ -36,3 +36,92 @@ social:
   - name: Steam
     url: https://steam.com
     icon: fab fa-steam 
+
+categories:
+  - name: 常用网站
+    icon: fas fa-star
+    sites:
+      - name: IT之家
+        url: https://www.ithome.com/
+        icon: fas fa-laptop-code
+        description: IT科技资讯网站
+      - name: 今日热榜
+        url: https://tophub.today/
+        icon: fas fa-fire
+        description: 各大热门网站热门头条的聚合网站
+      - name: 蓝点网
+        url: https://www.landiannews.com/
+        icon: fas fa-cogs
+        description: 互联网技术研究与应用
+      - name: 百度贴吧
+        url: https://tieba.baidu.com/
+        icon: fab fa-baidu
+        description: 百度旗下的网络社区
+      - name: 抖音
+        url: https://www.douyin.com/
+        icon: fab fa-tiktok
+        description: 中国领先的短视频平台
+      - name: 小红书
+        url: https://www.xiaohongshu.com/
+        icon: fab fa-pinterest
+        description: 中国领先的社交电商平台
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com/
+        icon: fab fa-youtube
+        description: 中国领先的动漫视频网站
+      - name: 西瓜视频
+        url: https://www.ixigua.com/
+        icon: fas fa-video
+        description: 中国领先的短视频平台
+      - name: 爱奇艺
+        url: https://www.iqiyi.com/
+        icon: fab fa-youtube
+        description: 中国领先的在线视频媒体平台
+      - name: 腾讯视频
+        url: https://v.qq.com/
+        icon: fab fa-youtube
+        description: 腾讯旗下的在线视频平台
+      - name: 虎牙直播
+        url: https://www.huya.com/
+        icon: fab fa-twitch
+        description: 中国领先的游戏直播平台
+      - name: 斗鱼直播
+        url: https://www.douyu.com/
+        icon: fab fa-twitch
+        description: 中国领先的游戏直播平台
+      - name: 什么值得买
+        url: https://www.smzdm.com/
+        icon: fas fa-shopping-cart
+        description: 中国领先的消费导购网站
+      - name: 汽车之家
+        url: https://www.autohome.com.cn/
+        icon: fas fa-car
+        description: 中国领先的汽车资讯网站
+      - name: 今日头条
+        url: https://www.toutiao.com/
+        icon: fas fa-newspaper
+        description: 中国领先的新闻资讯平台
+      - name: 站长工具
+        url: https://ping.chinaz.com/
+        icon: fas fa-tools
+        description: 站长工具
+      - name: 优酷视频
+        url: https://www.youku.com/
+        icon: fab fa-youtube
+        description: 中国领先的视频媒体平台
+      - name: 多邻国
+        url: https://www.duolingo.cn/
+        icon: fas fa-language
+        description: 世界上最受欢迎的语言学习平台
+      - name: 京东
+        url: https://www.jd.com/
+        icon: fab fa-shopify
+        description: 国内专业的网上购物商城
+      - name: 懂车帝
+        url: https://www.dongchedi.com/
+        icon: fas fa-car
+        description: 汽车资讯平台,懂车更懂你
+      - name: 易车网
+        url: https://www.yiche.com/
+        icon: fas fa-car
+        description: 提供专业、丰富的互联网资讯和导购服务
